@@ -1,4 +1,4 @@
-# TITULO DEL POYECTO: real-time-bus-tracker
+# TITULO DEL PROYECTO: real-time-bus-tracker
 
 <!--
 **ernesto nieves ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Feel free to copy and change what you need it.
